@@ -1,0 +1,32 @@
+{
+  "name": "IODashboard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/cloudmaker.js"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "dateformat": "^1.0.12",
+    "debug": "~2.2.0",
+    "decimal": "0.0.2",
+    "ejs": "~2.3.1",
+    "encoding": "^0.1.12",
+    "express": "~4.12.4",
+    "express-session": "^1.11.3",
+    "i2c": "^0.2.3",
+    "i2c-lcd": "^1.0.2",
+    "iconv": "^2.2.1",
+    "install": "^0.8.2",
+    "legacy-encoding": "^3.0.0",
+    "mysql": "^2.11.1",
+    "node-hid": "^0.5.1",
+    "npm": "^4.0.2",
+    "sleep": "^3.0.1",
+    "socket.io": "^1.4.8",
+    "trim": "0.0.1",
+    "underscore": "^1.8.3",
+    "utf8": "^2.1.2",
+    "windows-874": "^1.0.0"
+  }
+}
